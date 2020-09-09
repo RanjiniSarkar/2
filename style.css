@@ -48,10 +48,10 @@ p{
 .myDiv {
   background-color: orange;
   text-align: center;
-  margin-top: -1cm ;
+  margin-top: 1% ;
 }
 .myDiv1 {
-  margin-top: -40px;
+  margin-top: 2%;
   background-color: #66ff99;
   text-align: center;
 }
